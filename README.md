@@ -8,6 +8,7 @@ This project provides a GNU/Linux alternative to the [Battery Health Charging](h
 
 ## Contents
 - [Installation](#installation)
+- [Available profiles](#available-profiles)
 - [Usage](#usage)
 - [Uninstall](#uninstall)
 - [Contributing](#contributing)
@@ -35,6 +36,14 @@ chmod +x install.sh
 ```
 ./install.sh
 ```
+
+
+
+## Available profiles
+Three default profiles are provided similar to the [Battery Health Charging](https://www.asus.com/us/support/FAQ/1032726) feature:
+- full (100)
+- balanced (80)
+- maxlife (60)
 
 
 
